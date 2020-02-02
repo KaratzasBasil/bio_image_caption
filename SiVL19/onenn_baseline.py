@@ -1,6 +1,6 @@
 import sys
 sys.path.append("..")  # Adds higher directory to python modules path.
-from img2vec.img2vec_pytorch import Img2vec
+from img2vec_pytorch import Img2Ve
 import pandas as pd
 from PIL import Image
 from tqdm import tqdm
